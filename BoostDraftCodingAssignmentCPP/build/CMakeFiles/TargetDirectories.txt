@@ -1,0 +1,4 @@
+/Users/peter_song/Downloads/BoostDraftCodingAssignmentCPP/build/CMakeFiles/validator.dir
+/Users/peter_song/Downloads/BoostDraftCodingAssignmentCPP/build/CMakeFiles/checker.dir
+/Users/peter_song/Downloads/BoostDraftCodingAssignmentCPP/build/CMakeFiles/edit_cache.dir
+/Users/peter_song/Downloads/BoostDraftCodingAssignmentCPP/build/CMakeFiles/rebuild_cache.dir
